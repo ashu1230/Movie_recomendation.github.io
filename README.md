@@ -9,7 +9,7 @@ A content-based recommender system that recommends movies similar to the movie t
 
 Check out the live demo: https://tmc.kishanlal.dev
 
-Link to youtube demo: https://www.youtube.com/watch?v=dhVePtyECFw
+
 
 ## Overview
 
